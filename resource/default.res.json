@@ -1,0 +1,65 @@
+{
+	"groups": [
+		{
+			"keys": "bg_jpg,egret_icon_png,description_json,backMap_png,body_png,head_png,hero_png,neck_png,shield_png,shoulder_png,weapon_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"name": "bg_jpg",
+			"type": "image",
+			"url": "assets/bg.jpg"
+		},
+		{
+			"name": "egret_icon_png",
+			"type": "image",
+			"url": "assets/egret_icon.png"
+		},
+		{
+			"name": "description_json",
+			"type": "json",
+			"url": "config/description.json"
+		},
+		{
+			"name": "backMap_png",
+			"type": "image",
+			"url": "assets/backMap.png"
+		},
+		{
+			"name": "body_png",
+			"type": "image",
+			"url": "assets/body.png"
+		},
+		{
+			"name": "head_png",
+			"type": "image",
+			"url": "assets/head.png"
+		},
+		{
+			"name": "hero_png",
+			"type": "image",
+			"url": "assets/hero.png"
+		},
+		{
+			"name": "neck_png",
+			"type": "image",
+			"url": "assets/neck.png"
+		},
+		{
+			"name": "shield_png",
+			"type": "image",
+			"url": "assets/shield.png"
+		},
+		{
+			"name": "shoulder_png",
+			"type": "image",
+			"url": "assets/shoulder.png"
+		},
+		{
+			"name": "weapon_png",
+			"type": "image",
+			"url": "assets/weapon.png"
+		}
+	]
+}
